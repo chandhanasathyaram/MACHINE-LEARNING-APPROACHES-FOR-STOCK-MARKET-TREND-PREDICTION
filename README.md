@@ -1,4 +1,4 @@
-This project explores various machine learning techniques to predict stock market trends using Python. It focuses on forecasting price movements (bullish, bearish, neutral) based on historical stock data, technical indicators, and sentiment analysis.
+This project explores various machine learning techniques to predict stock market trends using Python. It focuses on forecasting price movements based on historical stock data, technical indicators, and sentiment analysis.
 
 The goal is to design a data-driven system that learns from past market behavior and helps investors make informed trading decisions.
 
